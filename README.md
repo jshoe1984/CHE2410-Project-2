@@ -45,7 +45,7 @@ To determine the stability and steady state behavior of the model, flow-on-a-lin
 </p>
 
 
-It can be seent that there is a steady state relatively close to zero. After zooming in on the specific region, the steady state value of dS/dt was found to be roughly at S = 0.3. To determine how this would change upon alteration of the k parameter, several values of k were simulated and plotted for this equation. The results can be seen below:
+It can be seen that there is a steady state relatively close to zero. After zooming in on the specific region, the steady state value of dS/dt was found to be roughly at S = 0.3. To determine how this would change upon alteration of the k parameter, several values of k were simulated and plotted for this equation. The results can be seen below:
 
 
 <p align="center">
